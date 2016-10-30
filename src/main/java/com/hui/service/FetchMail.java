@@ -48,8 +48,8 @@ public class FetchMail {
         boolean isSSL = true;
         String host = "pop.126.com";
         int port = 995;
-        String username = "m_zhanghui@126.com";
-        String password = "zhanghui201734";
+        String username = "*******";
+        String password = "******";
 
         Properties props = new Properties();
         props.put("mail.pop3.ssl.enable", isSSL);
