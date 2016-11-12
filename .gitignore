@@ -22,3 +22,8 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+/src/main/resources/application.properties
+mailtmp/
+src/main/java/com/hui/task/
+src/main/resources/static/
+src/main/resources/templates/
